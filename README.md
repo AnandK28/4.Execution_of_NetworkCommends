@@ -51,7 +51,7 @@ This commands includes
 ![Screenshot 2025-05-22 210540](https://github.com/user-attachments/assets/476c1334-6f03-4255-a726-201b431d06fc)
 
 ## HOSTNAME
-![Screenshot 2025-05-22 210627](https://github.com/user-attachments/assets/7b52b169-cbe8-4b05-8acb-274f2c1566b5)
+![image](https://github.com/user-attachments/assets/90e85801-b362-4071-b829-05518bc88b57)
 
 ## NBTSTAT
 ![Screenshot 2025-05-22 210643](https://github.com/user-attachments/assets/99653a10-3ff7-41da-a3cd-074fec878fc7)
